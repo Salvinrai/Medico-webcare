@@ -21,4 +21,29 @@ The medico webcare is essentially an website which focuses on overall consultanc
 It is a full stack – web development project.
 
 The code is written on HTML,CSS, JAVASCRIPT ,NODEJS ,EXPRESSJS ,MONGODB.
+
+# Mainpage of Medico Webcare
+
 ![image](https://user-images.githubusercontent.com/70576132/178152859-8547ec5b-7b53-47c5-bf5e-53bb626b9ed5.png)
+![image](https://user-images.githubusercontent.com/70576132/178152897-d814ccfe-f757-4fc4-91df-1fb70298108c.png)
+# Login page
+![image](https://user-images.githubusercontent.com/70576132/178152908-4c9867a0-c2fa-4156-b0c4-08f268effb18.png)
+
+![image](https://user-images.githubusercontent.com/70576132/178152916-2629bc4d-7827-4bc4-bf16-96eb3373c02d.png)
+
+![image](https://user-images.githubusercontent.com/70576132/178152923-25285276-1700-47dd-87d4-4f0f1043a4e8.png)
+#Patient View page
+![image](https://user-images.githubusercontent.com/70576132/178152932-7af39271-13de-4808-ad17-72cc9c89878c.png)
+# Doctor -View PAGE
+![image](https://user-images.githubusercontent.com/70576132/178152949-42e62297-26e9-4bcc-90cd-73ffcbca4e4d.png)
+# Consult Page -view
+![image](https://user-images.githubusercontent.com/70576132/178152968-63f13f52-076f-4050-890d-3367bdb617e1.png)
+
+#Communication part
+![image](https://user-images.githubusercontent.com/70576132/178152985-71f7533f-c554-447e-bdea-01dac2c89c0a.png)
+
+![image](https://user-images.githubusercontent.com/70576132/178152990-47891860-515f-40c3-9fb5-8375d97b0875.png)
+
+
+
+
